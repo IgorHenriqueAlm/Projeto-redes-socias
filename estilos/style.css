@@ -68,7 +68,7 @@ section#redes-sociais img:hover{
 
 @media screen and (max-width:768px){
     main{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
 
     section#redes-sociais{
