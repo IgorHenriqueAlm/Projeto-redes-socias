@@ -67,3 +67,9 @@ section#redes-sociais img:hover{
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.598);
     transition: transform .5s, border .3s, box-shadow .8s ;
 }
+
+@media screen and (max-width: 768px){
+    iframe#tela        {
+    display: none;  
+  }
+}
